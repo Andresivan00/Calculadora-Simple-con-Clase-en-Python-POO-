@@ -1,4 +1,4 @@
-# Calculadora Simple con Clase en Python (POO)
+# Calculadora Simple con Clases en Python (POO)
 
 Ejemplo educativo y 100% funcional de **Programación Orientada a Objetos** que crea una clase `Calculator` para realizar las 4 operaciones básicas: **suma, resta, multiplicación y división**.
 
